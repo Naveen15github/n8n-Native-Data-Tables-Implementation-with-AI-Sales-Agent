@@ -1,9 +1,9 @@
 # n8n-Native-Data-Tables-Implementation-with-AI-Sales-Agent
 
-![Alt text](image_url_or_path "Optional Title")
-![Alt text](image_url_or_path "Optional Title")
-![Alt text](image_url_or_path "Optional Title")
-![Alt text](image_url_or_path "Optional Title")
+![Alt text](https://github.com/Naveen15github/n8n-Native-Data-Tables-Implementation-with-AI-Sales-Agent/blob/0ad831cdbe216d4257e59688a5fa4aef7751cd00/Screenshot%20(454).png)
+![Alt text](https://github.com/Naveen15github/n8n-Native-Data-Tables-Implementation-with-AI-Sales-Agent/blob/0ad831cdbe216d4257e59688a5fa4aef7751cd00/Screenshot%20(455).png)
+![Alt text](https://github.com/Naveen15github/n8n-Native-Data-Tables-Implementation-with-AI-Sales-Agent/blob/0ad831cdbe216d4257e59688a5fa4aef7751cd00/Screenshot%20(456).png)
+![Alt text](https://github.com/Naveen15github/n8n-Native-Data-Tables-Implementation-with-AI-Sales-Agent/blob/0ad831cdbe216d4257e59688a5fa4aef7751cd00/Screenshot%20(457).png)
 
 
 **Description:** This repo explains the step-by-step implementation of n8n’s native data tables and AI-driven analytics. It details how I tested and used the new data tables feature for storing, managing, and querying sales data directly within n8n workflows.
